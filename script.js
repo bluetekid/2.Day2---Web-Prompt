@@ -351,6 +351,8 @@ Mari kita mulai dengan langkah pertama...`
     }
 }
 
+console.log("%c Dibuat oleh bluetekid (@bluetek_id) ", "color: #00aaff; font-size:16px; font-weight:bold;");
+
 // Initialize the prompter
 document.addEventListener('DOMContentLoaded', () => {
     new WebPrompter();
